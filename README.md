@@ -1,4 +1,6 @@
-## Hi there 👋
+## ldfajardo10-tech 
+### software developer in process
+
 
 <!--
 **ldfajardo10-tech/ldfajardo10-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
